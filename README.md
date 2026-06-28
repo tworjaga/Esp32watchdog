@@ -368,5 +368,5 @@ MIT — see [LICENSE](LICENSE).
 ## Contact
 
 Author: [@tworjaga](https://github.com/tworjaga)  
-Telegram: [@al7exy](https://t.me/al7exy)  
+Telegram: [@smtrcv](https://t.me/smtrcv)  
 Issues: [github.com/tworjaga/ESP32Watchdog/issues](https://github.com/tworjaga/ESP32Watchdog/issues)
