@@ -18,6 +18,10 @@ The firmware uses three FreeRTOS tasks, a promiscuous-mode Wi-Fi callback with R
 
 ---
 
+![ESP32Watchdog diagram](https://tworjaga.github.io/assets/diagram2.png)
+
+---
+
 ## Detection Modes
 
 ### Mode 0 — DEAUTH
