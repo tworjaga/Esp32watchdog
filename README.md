@@ -10,7 +10,7 @@
 
 ---
 
-## Overview
+## Overview [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/tworjaga/Esp32watchdog)
 
 ESP32Watchdog is a self-contained passive 802.11 threat monitor inspired by the Gotchi project family. It runs on the same ~10 EUR hardware stack as ESP32Gotchi, requires no host computer, and logs all detections as CSV files directly to a microSD card. All operation is autonomous from power-on.
 
